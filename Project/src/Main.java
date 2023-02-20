@@ -47,7 +47,10 @@ public class Main {
 
 
         System.out.println( az.calculateAzimuth(p.x,p.y,pp.x,pp.y));
-        System.out.println( az.calculatePiontDiagonal(p.x,p.y,pp.x,pp.y));
+        System.out.println( az.calculatePointDiagonal(p.x,p.y,pp.x,pp.y));
+        System.out.println(az.calculatePointOnDiagonalX(p.x,p.y,pp.x,pp.y));
+        System.out.println(az.calculatePointOnDiagonalY(p.x,p.y,pp.x,pp.y));
+
 
 
     }
