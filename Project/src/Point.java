@@ -5,9 +5,6 @@ public class Point {
     double z;
 
 
-
-
-
     public Point(){};
 
 
