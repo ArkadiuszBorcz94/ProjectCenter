@@ -63,6 +63,8 @@ public class Azimuth {
             return y1+(deltaYdiagonal)/2;
 
 
+
+
     }
 
 
