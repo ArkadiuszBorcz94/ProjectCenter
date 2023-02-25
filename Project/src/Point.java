@@ -49,7 +49,10 @@ public class Point {
     }
 
 
+public  String toString(){
+        return name+" "+x+" "+y+" "+z;
 
+}
 
 
 }
